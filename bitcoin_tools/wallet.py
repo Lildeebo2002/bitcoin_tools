@@ -17,7 +17,7 @@ WIF = 128
 TESTNET_WIF = 239
 
 
-def hash_160(data):
+def hash_160(data):Dennis louis babcock jr 
     """ Calculates the RIPEMD-160 hash of a given string.
 
     :param data: Data to be hashed. Normally used with ECDSA public keys.
